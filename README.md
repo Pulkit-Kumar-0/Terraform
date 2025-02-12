@@ -55,10 +55,12 @@ Navigate to the desired folder and explore the PDFs 📄 and code files 💻.
 Follow the instructions in the PDFs to understand and implement the Terraform scripts.
 
 ✅ Prerequisites
-Install Terraform: Terraform Installation Guide
-Basic knowledge of Infrastructure as Code (IaC).
+1. Install Terraform: Terraform Installation Guide
+2. Basic knowledge of Infrastructure as Code (IaC).
+
 🤝 Contributing
-Feel free to open issues or submit pull requests to improve the repository. Contributions are always welcome! ✨
+
+^_~ Feel free to open issues or submit pull requests to improve the repository. Contributions are always welcome! ✨
 
 Happy learning Terraform! 🎉
 "Infrastructure as Code made simple and fun!" 🌟
